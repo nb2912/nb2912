@@ -16,7 +16,7 @@ I love blending creativity with technology to craft intuitive, user-centric expe
 - 📫 Reach me at: **[nihalbasaniwal2912@gmail.com](mailto:nihalbasaniwal2912@gmail.com)**
 - 🧠 Currently learning **Express.js**
 - 🤝 Open to collaborating on **AI / Web Development Projects**
-- ⚡ Fun Fact: *I’m secretly Batman... but shh 🦇*
+- ⚡ Fun Fact: *I’m secretly Batman.... but shh 🦇*
 
 ---
 
